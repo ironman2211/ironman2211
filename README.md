@@ -22,7 +22,6 @@
 <a href="https://dev.to/behera051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="behera051" height="30" width="40" /></a>
 <a href="https://twitter.com/behera051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="behera051" height="30" width="40" /></a>
 <a href="https://instagram.com/i_.am_brahma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_.am_brahma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/brahmananda behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brahmananda behera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
