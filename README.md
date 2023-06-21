@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ironman2211&show_icons=true&locale=en" alt="ironman2211" /></p>
 
 <p><img align="left" height="150px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ironman2211&show_icons=true&locale=en&layout=compact" alt="ironman2211" /></p>
+<img src="https://raw.githubusercontent.com/ironman2211/ironman2211/output/snake.svg" alt="Snake animation" />
