@@ -1,6 +1,5 @@
 
 <h1 align="center">Hellow everyOne I'm Brahma</h1>
-<h3 align="center">A motivated individual with in-depth knowledge of languages and development tools</h3>
 <img align="right" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47savchk2hhmb4kbj226wsdhtp1qytwvrt69argqek&rid=giphy.gif&ct=g" width="400px" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ironman2211&label=Profile%20views&color=0e75b6&style=flat" alt="ironman2211" /> </p>
