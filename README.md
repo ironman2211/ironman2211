@@ -1,21 +1,8 @@
 
 <h1 align="center">Hellow everyOne I'm Brahma</h1>
-<img align="right" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47savchk2hhmb4kbj226wsdhtp1qytwvrt69argqek&rid=giphy.gif&ct=g" width="400px" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ironman2211&label=Profile%20views&color=0e75b6&style=flat" alt="ironman2211" /> </p>
-
-<p align="left"> <a href="https://twitter.com/behera051" target="blank"><img src="https://img.shields.io/twitter/follow/behera051?logo=twitter&style=for-the-badge" alt="behera051" /></a> </p>
-
-- 🔭 I’m currently working on **Backend Development**
-
-- 🌱 I’m currently learning **Backend**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ironman2211](https://github.com/ironman2211)
-
-- 💬 Ask me about **React,Java Script,HTML,CSS,Python,Java,Node...**
-
-- 📫 How to reach me **beherabrahmananda77@gmail.com**
-
+<h4 align="center">📧  beherabrahmananda77@gmail.com
+</h4>
 
 ## <h3 align="left">Let's Connect:</h3>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/sdJ2RGrR) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BrAhma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_whoisbrahma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brahmananda-behera-6823021b9) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/sensitive_ad_4143) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Behera051) 
