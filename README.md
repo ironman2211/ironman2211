@@ -1,11 +1,13 @@
 
-<h1 align="center">Hellow everyOne I'm Brahma</h1>
+<p align="center">
+ <a href="https://github/ironman2211"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=8&pause=1023&color=36BCF7FF&center=true&repeat=false&width=435&lines=Brahmananda+Behera" alt="Typing SVG" /></a>
+</p>
 
-<h4 align="center">📧  beherabrahmananda77@gmail.com
-</h4>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=94C0F7&center=true&vCenter=true&random=true&width=435&height=30&lines=FullStack+web+and+app+developer;5+%2B+Years+Of+Development+Experince;Smart+India+hackathon+Winner+%F0%9F%8F%86;Expericed+UI%2FUX+Designer" alt="Typing SVG" /></a>
+</p>
 
-## <h3 align="left">Let's Connect:</h3>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/sdJ2RGrR) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BrAhma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_whoisbrahma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brahmananda-behera-6823021b9) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/sensitive_ad_4143) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Behera051) 
+
 
 ## <h3 align="start">💻 Languages </h3>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
