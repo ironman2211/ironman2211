@@ -72,8 +72,14 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
 ![ironman2211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ironman2211&theme=tokyonight&hide_border=true)
 ![ironman2211's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ironman2211&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ironman2211)](https://github.com/anuraghazra/github-readme-stats)
 
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+-------
+            
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/brahma"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="110" alt="ko-fi.com/brahma" /></a></p><br><br>
 
