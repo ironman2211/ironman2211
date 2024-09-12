@@ -24,7 +24,6 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
 <a href="https://www.jetbrains.com/idea/" target="_blank"><img align="left" src="https://github.com/user-attachments/assets/96e0a6b4-dcfd-4df7-a0f6-32ea541493f0" alt="IntelliJ IDEA" height='42px'/></a>
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" src="https://github.com/user-attachments/assets/e99a0f63-a3de-4499-8e54-0f5edcdbd06c" alt="Jenkins" height='42px'/></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" src="https://github.com/user-attachments/assets/12023857-3e33-4a62-9ac3-0f4da48f9fb1" alt="Docker" height='42px'/></a>
-<a href="https://github.com/features/actions" target="_blank"><img align="left" src="https://github.com/user-attachments/assets/2deef94a-8a64-453c-b7b3-8c1b003a9d4c" alt="GitHub Actions" height='42px'/></a>
 <a href="https://github.com/features/actions" target="_blank"><img align="left" src="https://github.com/user-attachments/assets/02eba692-7950-4774-bbd2-36cde6c6b13c" alt="GitHub Actions" height='42px'/></a>
 <a href="https://www.figma.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/>
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
