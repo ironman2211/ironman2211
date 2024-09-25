@@ -85,8 +85,6 @@ Prisma       18 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brahma2211)](https://github.com/anuraghazra/github-readme-stats)
             
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/brahma"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="30" width="110" alt="ko-fi.com/brahma" /></a></p><br><br>
