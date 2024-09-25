@@ -75,6 +75,15 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   12 hrs 38 mins  ████████████████████▓░░░░   82.92 %
+Other        41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Bash         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Prisma       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brahma2211)](https://github.com/anuraghazra/github-readme-stats)
