@@ -77,9 +77,7 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   50 mins         ██████████████████████▒░░   88.77 %
-CSS          6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
