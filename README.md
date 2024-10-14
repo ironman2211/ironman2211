@@ -77,11 +77,10 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     12 mins         █████████████▒░░░░░░░░░░░   53.57 %
-TypeScript   6 mins          ███████░░░░░░░░░░░░░░░░░░   28.52 %
-JSON         2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-YAML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+YAML         48 mins         ████████████▒░░░░░░░░░░░░   49.66 %
+Docker       44 mins         ███████████▒░░░░░░░░░░░░░   45.35 %
+JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
