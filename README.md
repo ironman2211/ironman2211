@@ -77,7 +77,10 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML         49 mins         ██████████████████████▓░░   90.41 %
+JavaScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
