@@ -77,7 +77,7 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   35 mins         █████████████████████████   100.00 %
+YAML   31 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
