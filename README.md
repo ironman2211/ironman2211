@@ -77,7 +77,9 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   9 mins          ████████████████████████▓   98.27 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
