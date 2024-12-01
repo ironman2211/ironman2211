@@ -77,11 +77,10 @@ Here you can find a showcase of my skills, tools, and technologies that I use in
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   59 mins         ████████████████████████░   96.15 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JavaScript   1 hr 57 mins    ████████████████████████▓   98.45 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
